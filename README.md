@@ -10,7 +10,7 @@ Supervised learning. If you are hearing or reading this term for the first time,
 
 ## Scenarios
 
-|   Index | Name                                          | Difficulty   | URL                                                                 |
+|   Index | Name                                          | Difficulty   | Practice                                                            |
 |---------|-----------------------------------------------|--------------|---------------------------------------------------------------------|
 |       1 | 📖 Introduction to Supervised Learning         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20791'>Start Lab</a> |
 |       2 | 📖 Mastering Linear Regression Fundamentals    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20799'>Start Lab</a> |
@@ -19,4 +19,9 @@ Supervised learning. If you are hearing or reading this term for the first time,
 |       5 | 📖 Prediction for Bitcoin Price                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20806'>Start Lab</a> |
 |       6 | 📖 Ridge Regression and Lasso Regression       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20808'>Start Lab</a> |
 |       7 | 📖 Calculation of Ridge Regression Coefficient | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20753'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
