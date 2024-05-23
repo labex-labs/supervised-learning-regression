@@ -22,6 +22,7 @@ Supervised learning. If you are hearing or reading this term for the first time,
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
