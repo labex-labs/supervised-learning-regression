@@ -1,6 +1,6 @@
 # Supervised Learning: Regression
 
-![Supervised Learning: Regression](https://cover-creator.labex.io/supervised-learning-regression.png)
+![Supervised Learning: Regression](https://cover-creator.appbot.io/supervised-learning-regression.png)
 
 Supervised learning. If you are hearing or reading this term for the first time, then it may be completely unclear what it means. Don't worry. In this lab, you will get a comprehensive understanding of supervised learning; and, in the next chapter of the experiment, you will learn to use supervised learning to complete data prediction.
 
