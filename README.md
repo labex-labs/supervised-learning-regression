@@ -13,7 +13,7 @@ Supervised learning. If you are hearing or reading this term for the first time,
 |   Index | Name                                          | Difficulty   | Practice                                                            |
 |---------|-----------------------------------------------|--------------|---------------------------------------------------------------------|
 |       1 | 📖 Introduction to Supervised Learning         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20791'>Start Lab</a> |
-|       2 | 📖 Mastering Linear Regression Fundamentals    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20799'>Start Lab</a> |
+|       2 | 📖 Linear Regression Fundamentals              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20799'>Start Lab</a> |
 |       3 | 📖 Prediction for Beijing Housing Prices       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20805'>Start Lab</a> |
 |       4 | 📖 Nonlinear Data Regression Techniques        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20804'>Start Lab</a> |
 |       5 | 📖 Prediction for Bitcoin Price                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20806'>Start Lab</a> |
