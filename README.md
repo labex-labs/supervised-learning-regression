@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                           | Difficulty   | Practice                                                                                                                |
-|---------|------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                          | Difficulty   | Practice                                                                                                                |
+|---------|-----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Introduction to Supervised Learning         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-introduction-to-supervised-learning-20791'>Start Lab</a>         |
 |       2 | 📖 Linear Regression Fundamentals              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-linear-regression-fundamentals-20799'>Start Lab</a>              |
 |       3 | 📖 Prediction for Beijing Housing Prices       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-prediction-for-beijing-housing-prices-20805'>Start Lab</a>       |
