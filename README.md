@@ -26,15 +26,15 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                          | Difficulty   | Practice                                                                                                                |
-|---------|-----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Introduction to Supervised Learning         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-introduction-to-supervised-learning-20791'>Start Lab</a>         |
-|       2 | 📖 Linear Regression Fundamentals              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-linear-regression-fundamentals-20799'>Start Lab</a>              |
-|       3 | 📖 Prediction for Beijing Housing Prices       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-prediction-for-beijing-housing-prices-20805'>Start Lab</a>       |
-|       4 | 📖 Nonlinear Data Regression Techniques        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-nonlinear-data-regression-techniques-20804'>Start Lab</a>        |
-|       5 | 📖 Prediction for Bitcoin Price                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-prediction-for-bitcoin-price-20806'>Start Lab</a>                |
-|       6 | 📖 Ridge Regression and Lasso Regression       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-ridge-regression-and-lasso-regression-20808'>Start Lab</a>       |
-|       7 | 📖 Calculation of Ridge Regression Coefficient | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-calculation-of-ridge-regression-coefficient-20753'>Start Lab</a> |
+|   Index | Name                                          | Difficulty   | Practice                                                                                                           |
+|---------|-----------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Introduction to Supervised Learning         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-introduction-to-supervised-learning-20791'>Start Lab</a>         |
+|       2 | 📖 Linear Regression Fundamentals              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-linear-regression-fundamentals-20799'>Start Lab</a>              |
+|       3 | 📖 Prediction for Beijing Housing Prices       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-prediction-for-beijing-housing-prices-20805'>Start Lab</a>       |
+|       4 | 📖 Nonlinear Data Regression Techniques        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-nonlinear-data-regression-techniques-20804'>Start Lab</a>        |
+|       5 | 📖 Prediction for Bitcoin Price                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-prediction-for-bitcoin-price-20806'>Start Lab</a>                |
+|       6 | 📖 Ridge Regression and Lasso Regression       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-ridge-regression-and-lasso-regression-20808'>Start Lab</a>       |
+|       7 | 📖 Calculation of Ridge Regression Coefficient | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Start Lab</a> |
 
 ## More
 
