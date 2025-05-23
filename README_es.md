@@ -32,17 +32,17 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                        |
 |----------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Introducción al Aprendizaje Supervisado               | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/ml-introduction-to-supervised-learning-20791'>Iniciar Laboratorio</a>         |
-|        2 | 📖 Fundamentos de la regresión lineal                    | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/ml-linear-regression-fundamentals-20799'>Iniciar Laboratorio</a>              |
-|        3 | 📖 Predicción de los precios de las viviendas en Pekí... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/ml-prediction-for-beijing-housing-prices-20805'>Iniciar Laboratorio</a>       |
-|        4 | 📖 Técnicas de regresión de datos no lineales            | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/sklearn-nonlinear-data-regression-techniques-20804'>Iniciar Laboratorio</a>   |
-|        5 | 📖 Predicción del Precio del Bitcoin                     | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/sklearn-prediction-for-bitcoin-price-20806'>Iniciar Laboratorio</a>           |
-|        6 | 📖 Regresión Ridge y Regresión Lasso                     | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/ml-ridge-regression-and-lasso-regression-20808'>Iniciar Laboratorio</a>       |
-|        7 | 📖 Cálculo del coeficiente de regresión ridge            | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Iniciar Laboratorio</a> |
+|        1 | 📖 Introducción al Aprendizaje Supervisado               | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-introduction-to-supervised-learning-20791'>Iniciar Laboratorio</a>         |
+|        2 | 📖 Fundamentos de la regresión lineal                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-linear-regression-fundamentals-20799'>Iniciar Laboratorio</a>              |
+|        3 | 📖 Predicción de los precios de las viviendas en Pekí... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-prediction-for-beijing-housing-prices-20805'>Iniciar Laboratorio</a>       |
+|        4 | 📖 Técnicas de regresión de datos no lineales            | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-nonlinear-data-regression-techniques-20804'>Iniciar Laboratorio</a>   |
+|        5 | 📖 Predicción del Precio del Bitcoin                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-prediction-for-bitcoin-price-20806'>Iniciar Laboratorio</a>           |
+|        6 | 📖 Regresión Ridge y Regresión Lasso                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-ridge-regression-and-lasso-regression-20808'>Iniciar Laboratorio</a>       |
+|        7 | 📖 Cálculo del coeficiente de regresión ridge            | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Iniciar Laboratorio</a> |
 
 ## Más
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Tutoriales Gratuitos](https://github.com/labex-labs/ml-free-tutorials)
 
