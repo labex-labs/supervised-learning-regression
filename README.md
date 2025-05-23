@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Supervised Learning: Regression](https://cover-creator.labex.io/supervised-learning-regression.png)](https://labex.io/en/courses/supervised-learning-regression)
+[![Supervised Learning: Regression](https://cover-creator.labex.io/supervised-learning-regression.png)](https://labex.io/courses/supervised-learning-regression)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/supervised-learning-regression)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/supervised-learning-regression)
 
 Supervised learning. If you are hearing or reading this term for the first time, then it may be completely unclear what it means. Don't worry. In this lab, you will get a comprehensive understanding of supervised learning; and, in the next chapter of the experiment, you will learn to use supervised learning to complete data prediction.
 
@@ -30,15 +30,15 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                           | Difficulty   | Practice                                                                                                              |
-|---------|------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Introduction to Supervised Learning         | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-introduction-to-supervised-learning-20791'>Start Lab</a>         |
-|       2 | 📖 Linear Regression Fundamentals              | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-linear-regression-fundamentals-20799'>Start Lab</a>              |
-|       3 | 📖 Prediction for Beijing Housing Prices       | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-prediction-for-beijing-housing-prices-20805'>Start Lab</a>       |
-|       4 | 📖 Nonlinear Data Regression Techniques        | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/sklearn-nonlinear-data-regression-techniques-20804'>Start Lab</a>   |
-|       5 | 📖 Prediction for Bitcoin Price                | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/sklearn-prediction-for-bitcoin-price-20806'>Start Lab</a>           |
-|       6 | 📖 Ridge Regression and Lasso Regression       | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-ridge-regression-and-lasso-regression-20808'>Start Lab</a>       |
-|       7 | 📖 Calculation of Ridge Regression Coefficient | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Start Lab</a> |
+|   Index | Name                                           | Difficulty   | Practice                                                                                                           |
+|---------|------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Introduction to Supervised Learning         | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-introduction-to-supervised-learning-20791'>Start Lab</a>         |
+|       2 | 📖 Linear Regression Fundamentals              | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-linear-regression-fundamentals-20799'>Start Lab</a>              |
+|       3 | 📖 Prediction for Beijing Housing Prices       | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-prediction-for-beijing-housing-prices-20805'>Start Lab</a>       |
+|       4 | 📖 Nonlinear Data Regression Techniques        | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-nonlinear-data-regression-techniques-20804'>Start Lab</a>   |
+|       5 | 📖 Prediction for Bitcoin Price                | Beginner     | <a target='_blank' href='https://labex.io/labs/sklearn-prediction-for-bitcoin-price-20806'>Start Lab</a>           |
+|       6 | 📖 Ridge Regression and Lasso Regression       | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-ridge-regression-and-lasso-regression-20808'>Start Lab</a>       |
+|       7 | 📖 Calculation of Ridge Regression Coefficient | Beginner     | <a target='_blank' href='https://labex.io/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Start Lab</a> |
 
 ## More
 
