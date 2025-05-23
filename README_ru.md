@@ -32,17 +32,17 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                                       |
 |----------|----------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Введение в научное обучение с учителем                | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-introduction-to-supervised-learning-20791'>Начать Лабораторию</a>         |
-|        2 | 📖 Основы линейной регрессии                             | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-linear-regression-fundamentals-20799'>Начать Лабораторию</a>              |
-|        3 | 📖 Предсказание цен на жилье в Пекине                    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-prediction-for-beijing-housing-prices-20805'>Начать Лабораторию</a>       |
-|        4 | 📖 Техники регрессии нелинейных данных                   | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/sklearn-nonlinear-data-regression-techniques-20804'>Начать Лабораторию</a>   |
-|        5 | 📖 Прогноз цены биткойна                                 | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/sklearn-prediction-for-bitcoin-price-20806'>Начать Лабораторию</a>           |
-|        6 | 📖 Регирессия с риджем (Ridge Regression) и LASSO-рег... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-ridge-regression-and-lasso-regression-20808'>Начать Лабораторию</a>       |
-|        7 | 📖 Вычисление коэффициента регрессии с гребнем           | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Начать Лабораторию</a> |
+|        1 | 📖 Введение в научное обучение с учителем                | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-introduction-to-supervised-learning-20791'>Начать Лабораторию</a>         |
+|        2 | 📖 Основы линейной регрессии                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-linear-regression-fundamentals-20799'>Начать Лабораторию</a>              |
+|        3 | 📖 Предсказание цен на жилье в Пекине                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-prediction-for-beijing-housing-prices-20805'>Начать Лабораторию</a>       |
+|        4 | 📖 Техники регрессии нелинейных данных                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-nonlinear-data-regression-techniques-20804'>Начать Лабораторию</a>   |
+|        5 | 📖 Прогноз цены биткойна                                 | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-prediction-for-bitcoin-price-20806'>Начать Лабораторию</a>           |
+|        6 | 📖 Регирессия с риджем (Ridge Regression) и LASSO-рег... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-ridge-regression-and-lasso-regression-20808'>Начать Лабораторию</a>       |
+|        7 | 📖 Вычисление коэффициента регрессии с гребнем           | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Начать Лабораторию</a> |
 
 ## Больше
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Бесплатные туториалы](https://github.com/labex-labs/ml-free-tutorials)
 
