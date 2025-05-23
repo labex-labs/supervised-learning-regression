@@ -26,23 +26,23 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                                       | 难度   | 练习                                                                                                                 |
 |--------|--------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 监督学习简介                            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/ml-introduction-to-supervised-learning-20791'>开始实验</a>         |
-|      2 | 📖 线性回归基础                            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/ml-linear-regression-fundamentals-20799'>开始实验</a>              |
-|      3 | 📖 北京房价预测                            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/ml-prediction-for-beijing-housing-prices-20805'>开始实验</a>       |
-|      4 | 📖 非线性数据回归技术                      | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/sklearn-nonlinear-data-regression-techniques-20804'>开始实验</a>   |
-|      5 | 📖 比特币价格预测                          | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/sklearn-prediction-for-bitcoin-price-20806'>开始实验</a>           |
-|      6 | 📖 岭回归（Ridge Regression）和 LASSO 回归 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/ml-ridge-regression-and-lasso-regression-20808'>开始实验</a>       |
-|      7 | 📖 岭回归系数的计算                        | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/ml-calculation-of-ridge-regression-coefficient-20753'>开始实验</a> |
+|      1 | 📖 监督学习简介                            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-introduction-to-supervised-learning-20791'>开始实验</a>         |
+|      2 | 📖 线性回归基础                            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-linear-regression-fundamentals-20799'>开始实验</a>              |
+|      3 | 📖 北京房价预测                            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-prediction-for-beijing-housing-prices-20805'>开始实验</a>       |
+|      4 | 📖 非线性数据回归技术                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/sklearn-nonlinear-data-regression-techniques-20804'>开始实验</a>   |
+|      5 | 📖 比特币价格预测                          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/sklearn-prediction-for-bitcoin-price-20806'>开始实验</a>           |
+|      6 | 📖 岭回归（Ridge Regression）和 LASSO 回归 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-ridge-regression-and-lasso-regression-20808'>开始实验</a>       |
+|      7 | 📖 岭回归系数的计算                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-calculation-of-ridge-regression-coefficient-20753'>开始实验</a> |
 
 ## 更多
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 免费教程](https://github.com/labex-labs/ml-free-tutorials)
 
