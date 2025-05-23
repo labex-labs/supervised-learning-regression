@@ -32,17 +32,17 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                  |
 |----------|------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 지도 학습 소개                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-supervised-learning-20791'>실습 시작</a>         |
-|        2 | 📖 선형 회귀 기본                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-fundamentals-20799'>실습 시작</a>              |
-|        3 | 📖 베이징 주택 가격 예측                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-prediction-for-beijing-housing-prices-20805'>실습 시작</a>       |
-|        4 | 📖 비선형 데이터 회귀 기법               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/sklearn-nonlinear-data-regression-techniques-20804'>실습 시작</a>   |
-|        5 | 📖 Prediction for Bitcoin Price          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/sklearn-prediction-for-bitcoin-price-20806'>실습 시작</a>           |
-|        6 | 📖 Ridge Regression and Lasso Regression | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-ridge-regression-and-lasso-regression-20808'>실습 시작</a>       |
-|        7 | 📖 릿지 회귀 계수 계산                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-calculation-of-ridge-regression-coefficient-20753'>실습 시작</a> |
+|        1 | 📖 지도 학습 소개                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-supervised-learning-20791'>실습 시작</a>         |
+|        2 | 📖 선형 회귀 기본                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-fundamentals-20799'>실습 시작</a>              |
+|        3 | 📖 베이징 주택 가격 예측                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-prediction-for-beijing-housing-prices-20805'>실습 시작</a>       |
+|        4 | 📖 비선형 데이터 회귀 기법               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-nonlinear-data-regression-techniques-20804'>실습 시작</a>   |
+|        5 | 📖 Prediction for Bitcoin Price          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-prediction-for-bitcoin-price-20806'>실습 시작</a>           |
+|        6 | 📖 Ridge Regression and Lasso Regression | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-ridge-regression-and-lasso-regression-20808'>실습 시작</a>       |
+|        7 | 📖 릿지 회귀 계수 계산                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-calculation-of-ridge-regression-coefficient-20753'>실습 시작</a> |
 
 ## 더 보기
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 무료 튜토리얼](https://github.com/labex-labs/ml-free-tutorials)
 
