@@ -14,6 +14,18 @@ Aprendizaje supervisado. Si es la primera vez que escuchas o lees este término,
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                        |
+|----------|-------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 Introducción al Aprendizaje Supervisado               | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-introduction-to-supervised-learning-20791'>Iniciar Laboratorio</a>         |
+|        2 | 📖 🟢 Fundamentos de la regresión lineal                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-linear-regression-fundamentals-20799'>Iniciar Laboratorio</a>              |
+|        3 | 📖 🟢 Predicción de los precios de las viviendas en Pekí... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-prediction-for-beijing-housing-prices-20805'>Iniciar Laboratorio</a>       |
+|        4 | 📖 🔵 Técnicas de regresión de datos no lineales            | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-nonlinear-data-regression-techniques-20804'>Iniciar Laboratorio</a>   |
+|        5 | 📖 🔵 Predicción del Precio del Bitcoin                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-prediction-for-bitcoin-price-20806'>Iniciar Laboratorio</a>           |
+|        6 | 📖 🔵 Regresión Ridge y Regresión Lasso                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-ridge-regression-and-lasso-regression-20808'>Iniciar Laboratorio</a>       |
+|        7 | 📖 🔵 Cálculo del coeficiente de regresión ridge            | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Iniciar Laboratorio</a> |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -24,21 +36,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                        |
-|----------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 Introducción al Aprendizaje Supervisado               | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-introduction-to-supervised-learning-20791'>Iniciar Laboratorio</a>         |
-|        2 | 📖 Fundamentos de la regresión lineal                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-linear-regression-fundamentals-20799'>Iniciar Laboratorio</a>              |
-|        3 | 📖 Predicción de los precios de las viviendas en Pekí... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-prediction-for-beijing-housing-prices-20805'>Iniciar Laboratorio</a>       |
-|        4 | 📖 Técnicas de regresión de datos no lineales            | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-nonlinear-data-regression-techniques-20804'>Iniciar Laboratorio</a>   |
-|        5 | 📖 Predicción del Precio del Bitcoin                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-prediction-for-bitcoin-price-20806'>Iniciar Laboratorio</a>           |
-|        6 | 📖 Regresión Ridge y Regresión Lasso                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-ridge-regression-and-lasso-regression-20808'>Iniciar Laboratorio</a>       |
-|        7 | 📖 Cálculo del coeficiente de regresión ridge            | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-calculation-of-ridge-regression-coefficient-20753'>Iniciar Laboratorio</a> |
 
 ## Más
 
