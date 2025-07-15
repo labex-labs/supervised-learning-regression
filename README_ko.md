@@ -14,6 +14,18 @@
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## 연습
+
+|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                  |
+|----------|---------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 지도 학습 소개                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-supervised-learning-20791'>실습 시작</a>         |
+|        2 | 📖 🟢 선형 회귀 기본                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-fundamentals-20799'>실습 시작</a>              |
+|        3 | 📖 🟢 베이징 주택 가격 예측                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-prediction-for-beijing-housing-prices-20805'>실습 시작</a>       |
+|        4 | 📖 🔵 비선형 데이터 회귀 기법               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-nonlinear-data-regression-techniques-20804'>실습 시작</a>   |
+|        5 | 📖 🔵 Prediction for Bitcoin Price          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-prediction-for-bitcoin-price-20806'>실습 시작</a>           |
+|        6 | 📖 🔵 Ridge Regression and Lasso Regression | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-ridge-regression-and-lasso-regression-20808'>실습 시작</a>       |
+|        7 | 📖 🔵 릿지 회귀 계수 계산                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-calculation-of-ridge-regression-coefficient-20753'>실습 시작</a> |
+
 ## 환경
 
 LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
@@ -24,21 +36,9 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 - 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
 - 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
 - 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- ChatGPT 를 기반으로 구축된 AI 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
+- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
 
 자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 연습
-
-|   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                  |
-|----------|------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 지도 학습 소개                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-introduction-to-supervised-learning-20791'>실습 시작</a>         |
-|        2 | 📖 선형 회귀 기본                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-linear-regression-fundamentals-20799'>실습 시작</a>              |
-|        3 | 📖 베이징 주택 가격 예측                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-prediction-for-beijing-housing-prices-20805'>실습 시작</a>       |
-|        4 | 📖 비선형 데이터 회귀 기법               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-nonlinear-data-regression-techniques-20804'>실습 시작</a>   |
-|        5 | 📖 Prediction for Bitcoin Price          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-prediction-for-bitcoin-price-20806'>실습 시작</a>           |
-|        6 | 📖 Ridge Regression and Lasso Regression | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-ridge-regression-and-lasso-regression-20808'>실습 시작</a>       |
-|        7 | 📖 릿지 회귀 계수 계산                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-calculation-of-ridge-regression-coefficient-20753'>실습 시작</a> |
 
 ## 더 보기
 
