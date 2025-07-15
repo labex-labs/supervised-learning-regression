@@ -14,6 +14,18 @@
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## 演習
+
+|   インデックス | 名前                          | 難易度   | 練習                                                                                                                   |
+|----------------|-------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|
+|              1 | 📖 🟢 教師あり学習の紹介      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-introduction-to-supervised-learning-20791'>ラボを開始</a>         |
+|              2 | 📖 🟢 線形回帰の基礎          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-fundamentals-20799'>ラボを開始</a>              |
+|              3 | 📖 🟢 北京の住宅価格予測      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-prediction-for-beijing-housing-prices-20805'>ラボを開始</a>       |
+|              4 | 📖 🔵 非線形データの回帰技術  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-nonlinear-data-regression-techniques-20804'>ラボを開始</a>   |
+|              5 | 📖 🔵 ビットコイン価格の予測  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-prediction-for-bitcoin-price-20806'>ラボを開始</a>           |
+|              6 | 📖 🔵 リッジ回帰と LASSO 回帰 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-ridge-regression-and-lasso-regression-20808'>ラボを開始</a>       |
+|              7 | 📖 🔵 リッジ回帰係数の計算    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-calculation-of-ridge-regression-coefficient-20753'>ラボを開始</a> |
+
 ## 環境
 
 LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
@@ -24,21 +36,9 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                       | 難易度   | 練習                                                                                                                   |
-|----------------|----------------------------|----------|------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 教師あり学習の紹介      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-introduction-to-supervised-learning-20791'>ラボを開始</a>         |
-|              2 | 📖 線形回帰の基礎          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-linear-regression-fundamentals-20799'>ラボを開始</a>              |
-|              3 | 📖 北京の住宅価格予測      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-prediction-for-beijing-housing-prices-20805'>ラボを開始</a>       |
-|              4 | 📖 非線形データの回帰技術  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-nonlinear-data-regression-techniques-20804'>ラボを開始</a>   |
-|              5 | 📖 ビットコイン価格の予測  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-prediction-for-bitcoin-price-20806'>ラボを開始</a>           |
-|              6 | 📖 リッジ回帰と LASSO 回帰 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-ridge-regression-and-lasso-regression-20808'>ラボを開始</a>       |
-|              7 | 📖 リッジ回帰係数の計算    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/ml-calculation-of-ridge-regression-coefficient-20753'>ラボを開始</a> |
 
 ## その他
 
